@@ -19,7 +19,7 @@ Possible ways of visualising this using Python include (but are not limited to):
 
 The underlying calculations can be done with the help of the NumPy library - although other approaches are doubtless possible.
 
-As an example of it's use, you can have a look at some code I wrote to check solutions of the [Eight Queens puzzle](https://github.com/dgh--/EightQueens).
+As an example of its use, you can have a look at some code I wrote to check solutions of the [Eight Queens puzzle](https://github.com/dgh--/EightQueens).
 
 Further reading:
 http://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/
